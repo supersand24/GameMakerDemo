@@ -3,6 +3,8 @@
   "resourceVersion": "1.6",
   "name": "Game Maker Demo",
   "resources": [
+    {"id":{"name":"spr_player","path":"sprites/spr_player/spr_player.yy",},"order":0,},
+    {"id":{"name":"spr_possessed","path":"sprites/spr_possessed/spr_possessed.yy",},"order":1,},
     {"id":{"name":"rm_game","path":"rooms/rm_game/rm_game.yy",},"order":0,},
   ],
   "Options": [
